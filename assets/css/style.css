@@ -1181,7 +1181,10 @@ footer {
   text-decoration: none;
   display: inline-block; }
   .logo img {
-    display: block; }
+    display: block;
+    height: 23vh;
+    width: 23vh;
+  }
 
 .btn {
   font-size: 16px;
