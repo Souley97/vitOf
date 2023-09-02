@@ -1181,7 +1181,10 @@ footer {
   text-decoration: none;
   display: inline-block; }
   .logo img {
-    display: block; }
+    display: block;
+    height: 23vh;
+    width: 23vh;
+  }
 
 .btn {
   font-size: 16px;
@@ -2902,8 +2905,8 @@ blockquote:before {
         color: #f23849; }
 
 .out-trainer-img {
-  flex: 0 0 30%;
-  max-width: 30%; }
+  flex: 0 0 40%;
+  max-width: 40%; }
   .out-trainer-img img {
     display: block;
     width: 100%;
@@ -2911,8 +2914,8 @@ blockquote:before {
     object-fit: cover; }
 
 .out-trainer-info {
-  flex: 0 0 70%;
-  max-width: 70%;
+  flex: 0 0 60%;
+  max-width: 60%;
   display: flex;
   flex-direction: column;
   align-items: stretch;
